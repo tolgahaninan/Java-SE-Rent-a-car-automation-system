@@ -1,0 +1,3 @@
+34AA26,BMW-M3,500,Premium Package
+33CC44,FIAT-EGEA,300,Sport Package
+55GG88,MERCEDES-C180,800,Classic Package
